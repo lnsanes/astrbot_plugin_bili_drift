@@ -1,0 +1,6 @@
+name: astrbot_plugin_bili_drift
+display_name: 自主刷B站
+desc: 像人一样逛B站：盲刷首页/搜自己的兴趣/追UP，看简介热评弹幕和封面，看完才说话，记梗也记口味，发主人私聊
+version: v3.0.0
+author: 小肥鱼
+repo: https://github.com/
